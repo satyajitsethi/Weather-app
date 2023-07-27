@@ -6,3 +6,4 @@ In case, the city exits, we display the weather information for that particular 
 
 We obtain this information from API. The API that we are using here is – Open Weather API.
 
+![Screenshot (35)](https://github.com/satyajitsethi/weather-app/assets/78629290/8bb12138-478b-4e63-9166-b4d3d3081d95)
